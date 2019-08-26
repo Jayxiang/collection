@@ -15,9 +15,15 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      search: 'auto', // 默认值
+      // 默认值
       name: '收藏总结',
-      repo: ''
+      search: {
+        maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+        paths: ['/'],
+        placeholder: '搜索',
+        noData: '找不到结果',
+        depth: 5,
+      }
     }
   </script>
   <!-- <script src="//unpkg.com/docsify"></script> -->
