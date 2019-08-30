@@ -4,15 +4,20 @@
 
 ## 目录
 
-- [一些工具](#一些工具)
+- [各种导航](#各种导航)
+- [工具箱](#工具箱)
+- [Google插件](#Google插件)
+- [在线文件分享](#在线文件分享)
+- [微信排版Markdown](#微信排版Markdown)
+- [文档音视频相关](#文档音视频相关)
+- [PPT相关](#PPT相关)
+- [博客静态页托管](#博客静态页托管)
+- [PPT相关](#PPT相关)
 - [设计相关](#设计相关)
 - [软件相关](#软件)
 - [开发相关](#开发相关)
 
-## 一些工具
-
-
-### 导航
+## 导航
 
 * [沃客导航—优质高效实用的导航](https://www.9178.work/index.html) - 各种导航汇集
 * [高效搜罗,精准的职业导航](http://gaoxiaosouluo.com/) - 各种导航汇集
@@ -22,27 +27,28 @@
 * [设计导航](http://hao.shejidaren.com) - 设计相关的导航，包含免费图片配色等素材
 * [国外网站推荐-分享互联网](https://www.egouz.com/) - 各种网站导航分类
 
-### 工具箱
+## 工具箱
 
 * [奇迹秀工具箱](http://www.qijishow.com/down/index.html) - 主要是设计相关推荐
 * [一个工具箱 - 好用的在线工具都在这里！](http://www.atoolbox.net) - 各种小工具集合：图片文字识别图片圆角裁剪等
 * [工具123 - 在线工具大全_免下载_全在线小工具网站](http://www.gjw123.com/) - 小工具集合：公众号评论生成，微信对话生成二维码生产等
 * [在线工具 - 程序员的工具箱](https://tool.lu) - 主要是开发相关的工具
 * [ToolFK-程序员开发工具大全 在线小工具网站](https://www.toolfk.com/) - 主要是开发相关的工具
+* [爱资料在线工具-好用的在线工具箱](https://www.toolnb.com) - 各种工具：开发图片视频下载
 
-### Google插件
+## Google插件
 
 * [油猴脚本](https://greasyfork.org/zh-CN/scripts) - 油猴脚本下载
 * [扩展迷 - Chrome扩展与插件离线安装包商店](https://www.extfans.com/) - Chrome扩展与插件离线安装包商店
 * [极简插件_优质chrome浏览器crx扩展插件](https://chrome.zzzmh.cn) - 优质chrome浏览器crx扩展插件
 
 
-### 在线文件分享
+## 在线文件分享
 
 * [Firefox Send](https://send.firefox.com/) - 简单私密文件分享，到期即焚
 * [奶牛快传 | 文件传输服务](https://cowtransfer.com/) - 文件传输服务
 
-### 微信排版 markdown
+## 微信排版Markdown
 
 * [微信公众号排版编辑器](https://lab.lyric.im/wxformat/) - 转换 Markdown 到微信特制的 HTML
 * [公众号排版神器](https://mdnice.github.io) - 一款开源 Markdown 编辑器，写完后即排版成功，复制即可粘贴到微信公众号。
@@ -50,15 +56,17 @@
 能让Markdown内容，无需作任何调整就能**一键复制**到微信公众号、博客园、掘金、知乎、csdn、51cto、wordpress、hexo。。。等平台。
 * [小书匠在线](http://markdown.xiaoshujiang.com/) - 小书匠编辑器是一款专注于用markdown语法写作的编辑器,同时支持离线与在线,并提供了多种主流平台客户端版本下载.
 
-### 文档音视频相关
+## 文档音视频相关
 
 * [任意格式转换 - CloudConvert](https://cloudconvert.com/) - 支持各种格式转换音频视频图片文档等
 * [迅捷PDF在线翻译软件](http://app.xunjiepdf.com/fanyi) - 在线版PDF转换器转换文件仅限于2M以内文件
+* [PDF Candy - 使用在线 PDF 编辑器免费编辑 PDF](https://pdfcandy.com/cn/) - 免费在线PDF编辑
+* [iLovePDF | 为PDF爱好者提供的PDF文件在线处理工具](https://www.ilovepdf.com/zh-cn) - 完全免费的PDF文件在线管理工具
 * [GIF压缩-Animated GIF editor](https://ezgif.com) - 支持GIF操作
 * [免费在线YouTube视频转换与下载](http://youtube.online-downloader.com/-Chinese) - 提供了从YouTube, FaceBook, Vimeo, 优酷, Yahoo等200多个视频站点下载视频的最快捷，最简单的方法
 * [百度文档导出](http://wenku.baiduvvv.com/doc/) - 输入百度文库的文档网址。文档可转换为word、pdf或ppt形式导出，非源文件，但文字可编辑，包含图片，尽量保持原文档的格式。另外还包含了：任何网址前面加上 wn.run/ ，就会展示出用于该网页的各种在线工具，并且点击某一工具时会直达针对该网页的功能详情页(**万能命令**)。
 
-### PPT相关
+## PPT相关
 
 * [PPT模板_PPT模板下载_幻灯片模板](http://www.1ppt.com) - PPT各种模板下载
 * [iSlide - 让PPT设计简单起来！](https://www.islide.cc/) - iSlide是一款基于PowerPoint的插件工具
@@ -67,7 +75,7 @@
 * [办公资源](https://www.bangongziyuan.com) - 专注幻灯片演示文稿素材下载
 
 
-### 博客静态页托管
+## 博客静态页托管
 
 * [Hexo-博客框架](https://hexo.io/zh-cn/) - 只需一条指令即可部署到 GitHub Pages, Heroku 或其他网站。
 * [静态页-  Hugo](https://gohugo.io/) - 静态页托管
@@ -86,8 +94,9 @@
 * [PanDownload网页版](https://www.baiduwp.com/) - 百度网盘在线下载
 * [在线地图经度纬度查询](http://www.gpsspg.com/maps.htm) - 经纬度查询地名|地名查询经纬度
 * [xiaopiu-产品原型设计工具与团队实时协作平台](https://www.xiaopiu.com/) - 一个挺好用的产品原型设计工具与团队实时协作平台
-* [emojie百科](https://emojipedia.org) - emoji大全，在各个平台的不同展示
-
+* [emoji百科](https://emojipedia.org) - emoji大全，在各个平台的不同展示
+* [文字转emoji](http://meowni.ca/emoji-translate/) 和 [文字转emoji](https://emojitranslate.com/) - 将文字转为emoji表情
+* [捷径社区](https://sharecuts.cn) - 各种捷径分享
 
 ## 设计相关
 
@@ -184,5 +193,6 @@
 * [代码生成-Gckit-CLI](https://seongbrave.github.io/gckit/) - Gckit CLI 通过 Node.js 脚本实现生成Swift、Objective-C等代码的命令行工具
 * [Download iOS Firmware - iOS版本固件](https://ipsw.me/) - iOS版本固件查看
 * [忽略文件gitignore.io](https://gitignore.io/) - 忽略文件在线生成
+* [算法在线可视化](https://algorithm-visualizer.org) - 可视化算法
 * [多语言翻译-Free App I18n Translation |](https://i18ns.com/zh/index.html) - 多语言翻译
 * [路过图床 - 免费图片上传, 专业图片外链, 免费公共图床](https://imgchr.com/) - 路过图床-高速稳定的图片上传和外链服务
